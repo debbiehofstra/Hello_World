@@ -21,4 +21,4 @@ Updates to this repository can be made using the processes of:
 - creating pull requests
 - merging changes into the main branch
 
-***ALL*updates to this repository must be confirmed by the creator** 
+***ALL* updates to this repository must be confirmed by the creator** 
