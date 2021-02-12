@@ -1,5 +1,5 @@
 # Project Title
-*Learning the GitHub Basics*
+_Learning the GitHub Basics_
 
 ### Description
 This project details the resources I used to learn to navigate GitHub. I also will include additional resources that other beginners might find helpful.
@@ -21,4 +21,4 @@ Updates to this repository can be made using the processes of:
 - creating pull requests
 - merging changes into the main branch
 
-**_ALL_updates to this repository must be confirmed by the creator** 
+**updates to this repository must be confirmed by the creator** 
