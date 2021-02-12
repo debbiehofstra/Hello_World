@@ -17,6 +17,8 @@ I also learned about making branches and pull requests using [this activity](htt
 
 [Youtube](https://www.youtube.com) has many free tutorial videos on how to navigate GitHub.
 
+Another option is to use the [GitHub Learning Lab](https://www.lab.github.com). Git Hub itself offers courses that explain how to use it.
+
 ### Versioning
 Updates to this repository can be made using the processes of:
 - branching 
