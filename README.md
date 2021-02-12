@@ -1,5 +1,3 @@
-# Hello_World
-
 # Project Title
 *Learning the GitHub Basics*
 
@@ -22,4 +20,5 @@ Updates to this repository can be made using the processes of:
 - branching 
 - creating pull requests
 - merging changes into the main branch
+
 **_ALL_updates to this repository must be confirmed by the creator** 
